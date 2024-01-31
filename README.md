@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Khoi Do! 👋
 
-<!--
-**khoido2003/khoido2003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a focus on building modern and scalable applications. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+![The Free Spirit](https://media.giphy.com/media/RKAEGn7r4sT2C7JtFS/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+
+- Instagram: [Your Instagram Profile](https://www.instagram.com/khoi_the_underdog/)
+- Facebook: [Your Twitter Profile](https://www.facebook.com/nova.khoi.7)
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
+
+Happy coding! 🚀
