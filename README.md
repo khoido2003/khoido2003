@@ -2,7 +2,8 @@
 
 I'm a passionate web developer with a focus on building modern and scalable applications. Welcome to my GitHub profile!
 
-![The Free Spirit](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p4N3NlOXhyb2x5azRmdzhjdzl3MGhmaGtyMno3dmY2NWF4YnNuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/leGtI4JDAzrWo7jquD/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcThicHFjdzdoZGhjbTByOXB0anVoamhkOWZ6bGY5emx5d3VuOXpjYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RKAEGn7r4sT2C7JtFS/giphy.gif" width="250">
+
 
 ## Connect with Me
 
