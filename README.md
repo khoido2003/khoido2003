@@ -12,6 +12,7 @@ I'm a passionate web developer with a focus on building modern and scalable appl
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Style-Tailwind%20CSS-informational?style=flat&color=informational&logo=tailwind-css)
+![](https://img.shields.io/badge/Tool-SCSS-informational?style=flat&color=warning&logo=sass)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&color=success&logo=mongodb)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&color=success&logo=postgresql)
 ![](https://img.shields.io/badge/ORM-Prisma-informational?style=flat&color=success&logo=prisma)
