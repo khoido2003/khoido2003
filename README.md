@@ -1,5 +1,5 @@
 
 <div align="center">
-  <img src="images/10.png" alt="Top Tier Images" width="450"/>
+  <img src="images/11.png" alt="Top Tier Images" width="350"/>
 </div>
 
